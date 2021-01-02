@@ -1,0 +1,46 @@
+2020-12-23 19:36:06.323 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-12-23 19:36:06.336 [restartedMain] INFO  com.ooad.good.GoodModuleApplication - Starting GoodModuleApplication on ESANnoMacBook-Pro.local with PID 1253 (/Users/mac/Desktop/git_ooad/OOAD-Good-Module/good-module/target/classes started by mac in /Users/mac/Desktop/git_ooad/OOAD-Good-Module/good-module)
+2020-12-23 19:36:06.338 [restartedMain] INFO  com.ooad.good.GoodModuleApplication - The following profiles are active: dev
+2020-12-23 19:36:06.375 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-23 19:36:06.375 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-23 19:36:06.939 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-12-23 19:36:06.941 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-12-23 19:36:06.970 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2020-12-23 19:36:07.432 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-23 19:36:07.441 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-23 19:36:07.441 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-23 19:36:07.441 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-23 19:36:07.510 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-23 19:36:07.511 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1135 ms
+2020-12-23 19:36:07.638 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-23 19:36:07.966 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-23 19:36:08.113 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-12-23 19:36:08.603 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-23 19:36:09.065 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-23 19:36:09.092 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-23 19:36:09.102 [restartedMain] INFO  com.ooad.good.GoodModuleApplication - Started GoodModuleApplication in 3.263 seconds (JVM running for 3.758)
+2020-12-23 23:07:31.880 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-12-23 23:07:31.904 [restartedMain] INFO  com.ooad.good.GoodModuleApplication - Starting GoodModuleApplication on ESANnoMacBook-Pro.local with PID 3858 (/Users/mac/Desktop/git_ooad/OOAD-Good-Module/good-module/target/classes started by mac in /Users/mac/Desktop/git_ooad/OOAD-Good-Module/good-module)
+2020-12-23 23:07:31.908 [restartedMain] INFO  com.ooad.good.GoodModuleApplication - The following profiles are active: dev
+2020-12-23 23:07:31.975 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-23 23:07:31.975 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-23 23:07:32.997 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-12-23 23:07:33.001 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-12-23 23:07:33.060 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36ms. Found 0 Redis repository interfaces.
+2020-12-23 23:07:34.010 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2020-12-23 23:07:34.026 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-23 23:07:34.026 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-23 23:07:34.027 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-12-23 23:07:34.161 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-23 23:07:34.161 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2186 ms
+2020-12-23 23:07:34.473 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-12-23 23:07:34.976 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-12-23 23:07:35.290 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-12-23 23:07:36.253 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-23 23:07:37.057 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2020-12-23 23:07:37.093 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2020-12-23 23:07:37.107 [restartedMain] INFO  com.ooad.good.GoodModuleApplication - Started GoodModuleApplication in 5.968 seconds (JVM running for 6.9)
+2020-12-23 23:26:12.985 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m7s861ms).
+2020-12-23 23:55:52.829 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m39s844ms).
+2020-12-23 23:57:29.355 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m6s519ms).
+2020-12-24 00:52:48.142 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m18s621ms).
